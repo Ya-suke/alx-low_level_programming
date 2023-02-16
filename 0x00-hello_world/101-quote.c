@@ -10,9 +10,9 @@
 
 int main(void)
 {
-	char word[] = "and that piece of art is useful\" - Dora Korpar, 2015-10-19\n";
+	char q[] = "and that piece of art is useful\" - Dora Korpar, 2015-10-19\n";
 
-	write(2, word, sizeof(word));
+	write(2, q, sizeof(q));
 
 	return (1);
 }
