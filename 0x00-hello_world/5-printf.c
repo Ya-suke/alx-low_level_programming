@@ -1,8 +1,11 @@
 #include <stdio.h>
 
 /**
+ * main - This is the main function
  * Description: File prints and is
  * followed by a new line
+ *
+ * Return: 0
 */
 
 int main(void)
