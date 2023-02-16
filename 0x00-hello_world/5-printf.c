@@ -1,9 +1,8 @@
 #include <stdio.h>
 
 /**
- * File prints and is
+ * Description: File prints and is
  * followed by a new line
- *
 */
 
 int main(void)
