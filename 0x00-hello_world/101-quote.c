@@ -1,14 +1,18 @@
 #include <stdio.h>
-#include <stdlib.h>
+#include <unistd.h>
 
 /**
- * main - Entry point
- * Return: Always 1 (Success)
- */
+ * main - This is the main function
+ * Description- Prints a quote from Dora Korpar.
+ *
+ * Return: (1) An error occurs
+*/
 
 int main(void)
 {
-	write(STDOUT_FILENO, "and that piece of art is useful
-			\" - Dora Korpar, 2015-10-19\n", 59);
+	char word[] = "and that piece of art is useful\" - Dora Korpar, 2015-10-19\n";
+
+	write(2, word, sizeof(word));
+
 	return (1);
 }
