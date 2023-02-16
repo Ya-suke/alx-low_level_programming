@@ -1,6 +1,6 @@
 #include <stdio.h>
 
-/*
+/**
  * File to print simple stuff
  *
  */
