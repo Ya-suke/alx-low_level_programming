@@ -6,7 +6,7 @@
  * main - main function.
  * Description - random number determiner
  *
- * Return: 0 
+ * Return: 0
  */
 
 
