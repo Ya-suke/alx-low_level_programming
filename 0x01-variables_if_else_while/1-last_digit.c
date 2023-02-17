@@ -6,7 +6,7 @@
  * main - main function.
  * Description - random number assigner
  *
- * Return: 0 
+ * Return: 0
  */
 
 int main(void)

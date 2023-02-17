@@ -2,7 +2,7 @@
 
 /**
  * main- main function
- * Description - prints all alphabets 
+ * Description - prints all alphabets
  *
  * Return: always (0) success
  *
