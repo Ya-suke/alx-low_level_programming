@@ -1,1 +1,1 @@
-# C - More pointers, arrays and strings
+# C More on pointers, arrays and strings
